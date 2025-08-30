@@ -1,0 +1,13 @@
+{
+    "name": "Azur Breeze",
+    "author": "MurakumoJP",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "inject": {
+        "shared.css": [
+            "SP",
+            "MainMenu",
+            "QuickAccess"
+        ]
+    }
+}
